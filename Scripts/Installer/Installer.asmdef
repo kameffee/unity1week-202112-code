@@ -1,0 +1,21 @@
+{
+    "name": "LifetimeScope",
+    "rootNamespace": "Unity1week202112",
+    "references": [
+        "GUID:b0214a6008ed146ff8f122a6a9c2f6cc",
+        "GUID:9c22add1bbf464834adae8f1420b1a42",
+        "GUID:3db66b34dbd0c4118870ce8074ea4114",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:1700547e2a4e247cab2e03e6da83cc14",
+        "GUID:117c7fb0080b4ca41bc18bf080e4cf82"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
