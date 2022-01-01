@@ -8,3 +8,4 @@ Unity 1週間ゲームジャム お題「正」
 - [UniRx](https://github.com/neuecc/UniRx)
 - [UniTask](https://github.com/Cysharp/UniTask)
 - [DOTween Pro](http://dotween.demigiant.com)
+- [CSV Serialize](https://assetstore.unity.com/packages/tools/integration/csv-serialize-135763)
